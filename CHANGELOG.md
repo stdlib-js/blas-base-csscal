@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-23)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`b54e895`](https://github.com/stdlib-js/stdlib/commit/b54e8953f36e1feed4338c25f8e422ab6616ac30) - **bench:** refactor to use string interpolation in `blas/base/csscal` [(#10392)](https://github.com/stdlib-js/stdlib/pull/10392) _(by Shubham)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Shubham
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
