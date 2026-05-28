@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-04)
+## Unreleased (2026-05-28)
+
+<section class="features">
+
+### Features
+
+-   [`af6a5d7`](https://github.com/stdlib-js/stdlib/commit/af6a5d7a0446d5e3044cdf1a7db5775ffe2d1fa6) - add `C` implementation for `blas/base/csscal` [(#12314)](https://github.com/stdlib-js/stdlib/pull/12314)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`af6a5d7`](https://github.com/stdlib-js/stdlib/commit/af6a5d7a0446d5e3044cdf1a7db5775ffe2d1fa6) - **feat:** add `C` implementation for `blas/base/csscal` [(#12314)](https://github.com/stdlib-js/stdlib/pull/12314) _(by Kaustubh Patange, Athan Reines)_
 -   [`b54e895`](https://github.com/stdlib-js/stdlib/commit/b54e8953f36e1feed4338c25f8e422ab6616ac30) - **bench:** refactor to use string interpolation in `blas/base/csscal` [(#10392)](https://github.com/stdlib-js/stdlib/pull/10392) _(by Shubham)_
 
 </details>
@@ -24,8 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
+-   Kaustubh Patange
 -   Shubham
 
 </section>
